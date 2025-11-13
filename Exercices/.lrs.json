@@ -1,0 +1,47 @@
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice2DColumn.md", "time": "2024-03-07-140955"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice2DColumn.md", "success": false, "time": "2024-03-07-141044"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice2DColumn.md", "success": true, "time": "2024-03-07-141052"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice2DColumns.md", "time": "2024-03-07-141102"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice2DColumns.md", "success": false, "time": "2024-03-07-141135"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice2DColumns.md", "success": true, "time": "2024-03-07-141142"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice2DRow.md", "time": "2024-03-07-141147"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice2DColumn.md", "time": "2024-03-07-141150"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice3DColumn.md", "time": "2024-03-07-141152"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice2DRow.md", "time": "2024-03-07-141155"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice2DRow.md", "success": false, "time": "2024-03-07-141208"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice2DRow.md", "time": "2024-03-07-141210"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice2DRow.md", "success": false, "time": "2024-03-07-141219"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice2DRow.md", "success": true, "time": "2024-03-07-141227"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice2DRows.md", "time": "2024-03-07-141229"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice2DRows.md", "time": "2024-03-07-141303"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice2DRows.md", "time": "2024-03-07-141307"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice2DRows.md", "time": "2024-03-07-141403"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice2DRows.md", "success": false, "time": "2024-03-07-141443"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice2DRows.md", "success": false, "time": "2024-03-07-141448"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice2DRows.md", "success": false, "time": "2024-03-07-141513"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice2DRows.md", "time": "2024-03-07-141516"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice3DColumns.md", "time": "2024-03-07-141521"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice2DRows.md", "time": "2024-03-07-141524"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice2DRows.md", "success": true, "time": "2024-03-07-141613"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice3DColumn.md", "time": "2024-03-07-141617"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice3DColumn.md", "success": true, "time": "2024-03-07-141707"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice3DLayer.md", "time": "2024-03-07-141711"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice3DColumns.md", "time": "2024-03-07-141715"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice3DColumns.md", "success": false, "time": "2024-03-07-141733"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice3DColumns.md", "success": false, "time": "2024-03-07-141748"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice3DColumns.md", "success": true, "time": "2024-03-07-141753"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice3DLayer.md", "time": "2024-03-07-141809"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice3DLayer.md", "success": true, "time": "2024-03-07-141825"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice3DLayers.md", "time": "2024-03-07-141828"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice3DLayers.md", "success": true, "time": "2024-03-07-141855"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice3DRow.md", "time": "2024-03-07-141858"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice3DRow.md", "success": false, "time": "2024-03-07-141908"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice3DRow.md", "success": true, "time": "2024-03-07-141914"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice3DRows.md", "time": "2024-03-07-141917"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice3DRows.md", "success": true, "time": "2024-03-07-141936"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice3Dsubcube.md", "time": "2024-03-07-141939"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice3Dsubcube.md", "success": false, "time": "2024-03-07-142007"}
+{"student": "mambauser", "action": "execute", "activity": "numpyarray/slice3Dsubcube.md", "success": true, "time": "2024-03-07-142026"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice3Dsubcube.md", "time": "2024-03-07-142034"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice2DRows.md", "time": "2024-03-07-142147"}
+{"student": "mambauser", "action": "view", "activity": "numpyarray/slice2DColumn.md", "time": "2024-03-10-162025"}
